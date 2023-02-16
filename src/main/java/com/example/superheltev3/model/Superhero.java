@@ -1,4 +1,4 @@
-package model;
+package com.example.superheltev3.model;
 
 public class Superhero {
     private String superHeroName;

@@ -1,6 +1,6 @@
-package repositories;
+package com.example.superheltev3.repositories;
 
-import model.Superhero;
+import com.example.superheltev3.model.Superhero;
 import org.springframework.stereotype.Repository;
 
 import java.util.ArrayList;

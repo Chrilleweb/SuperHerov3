@@ -1,8 +1,8 @@
-package services;
+package com.example.superheltev3.services;
 
-import model.Superhero;
+import com.example.superheltev3.model.Superhero;
 import org.springframework.stereotype.Service;
-import repositories.SuperheroRepository;
+import com.example.superheltev3.repositories.SuperheroRepository;
 
 import java.util.List;
 
